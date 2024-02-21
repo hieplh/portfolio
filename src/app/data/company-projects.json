@@ -1,0 +1,140 @@
+[
+  {
+    "duration": "July 2022 - Now",
+    "company": "Merkle Inc",
+    "title": "Backend Developer",
+    "projects": [
+      {
+        "name": "Dickies (E-commerce)",
+        "additionalInformation": {
+          "client": "Dickies",
+          "responsibilities": [
+            "Maintenance and develop new project from existing project"
+          ],
+          "tech_stack": [
+            "Java 8",
+            "Skype, Bitbucket, Jira",
+            "Fluent Commerce (PaaS)"
+          ],
+          "team_size": 6
+        }
+      },
+      {
+        "name": "SM Retail (E-commerce)",
+        "additionalInformation": {
+          "responsibilities": [
+            "Develop and custom new flow for an Order",
+            "Support technical for team members"
+          ],
+          "tech_stack": [
+            "Java 8",
+            "Skype, Bitbucket, Jira",
+            "Fluent Commerce (PaaS)"
+          ],
+          "team_size": 8
+        }
+      }
+    ],
+    "nonProjects": [
+      "Research, document and sharing (Fluent Commerce, Shopify, Akeneo) to whole team, whole company",
+      "Write single function scripts for Akeneo by Symfony (PHP)",
+      "Write install and deploy document for Shopify",
+      "Write technical document for Fluent Commerce"
+    ]
+  },
+  {
+    "duration": "Jan 2023 - May 2023",
+    "company": "PALTech Company Limited",
+    "title": "Fullstack Developer (Freelance)",
+    "projects": [
+      {
+        "name": "Merito (Gambling)",
+        "additionalInformation": {
+          "responsibilities": [
+            "Fix bugs and improve features"
+          ],
+          "tech_stack": [
+            "Java 11 - Springboot, Spring Security, Angular",
+            "Slack, SVN, Jira",
+            "Mysql"
+          ],
+          "team_size": 15
+        }
+      },
+      {
+        "name": "AQS - SB11 (Gambling)",
+        "additionalInformation": {
+          "responsibilities": [
+            "Fix bugs and improve features",
+            "Support technical for team members"
+          ],
+          "tech_stack": [
+            "Java 17 - Springboot, Spring Security, Angular",
+            "Slack, Gitlab, Jira"
+          ],
+          "team_size": 15
+        }
+      }
+    ]
+  },
+  {
+    "duration": "Dec 2021 - July 2022",
+    "company": "CMC Global - onsite at Robert Bosch GmbH",
+    "title": "Fullstack Developer",
+    "projects": [
+      {
+        "name": "Fuji Plantect (Greenhouse Crops)",
+        "additionalInformation": {
+          "client": "Bayer, Malaysia, Japan",
+          "responsibilities": [
+            "Maintenance and implement new features"
+          ],
+          "tech_stack": [
+            "Java 8 - Springboot, Spring Security, Angular (Js)",
+            "OracleDB, Zuul Proxy, Keycloak",
+            "Github Enterprise, MS Teams"
+          ],
+          "team_size": 60
+        }
+      },
+      {
+        "name": "SCBDP (in-house app)",
+        "additionalInformation": {
+          "client": "German",
+          "responsibilities": [
+            "Maintenance and develop new features"
+          ],
+          "tech_stack": [
+            "Java 8 - Spring framework, Spring Security, Angular (Ts)",
+            "OracleDB, LDAP, Jira",
+            "MS Teams, sourcecode.socialcoding.bosch.com"
+          ],
+          "team_size": 4
+        }
+      }
+    ]
+  },
+  {
+    "duration": "Apr 2021 - Nov 2021",
+    "company": "SPLUS SOFTWARE JSC",
+    "title": "Java Developer",
+    "projects": [
+      {
+        "name": "Theater Ticket Platform",
+        "additionalInformation": {
+          "client": "Japan",
+          "responsibilities": [
+            "Develop new features",
+            "Maintenance and update old modules based on new requirements"
+          ],
+          "tech_stack": [
+            "Java 13 - Springboot",
+            "PostgresDB",
+            "Slack, gitlab, svn"
+          ],
+          "team_size": 8
+        }
+      }
+    ]
+  }
+]

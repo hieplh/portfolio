@@ -1,0 +1,33 @@
+[
+    {
+      "duration": "Jan 2024 - Now",
+      "company": "Merkle Inc",
+      "title": "Backend Developer",
+      "projects": [
+        {
+          "name": "Dual Monitor Tools - Open Source",
+          "descriptions": [
+            "Only for Windows",
+            "Change specified monitor's background based on specified image",
+            "Set 2 portrait images to background for horizontal 2K monitor and otherwise if enabled"
+          ],
+          "additionalInformation": {
+            "responsibilities": [
+              "Improve and custom features by individual hobby"
+            ],
+            "tech_stack": [
+              "C#"
+            ],
+            "team_size": 1,
+            "github": "https://github.com/hieplh/dual-monitor-tool"
+          }
+        }
+      ],
+      "non-projects": [
+        "Research, document and sharing (Fluent Commerce, Shopify, Akeneo) to whole team, whole company",
+        "Write single function scripts for Akeneo by Symfony (PHP)",
+        "Write install and deploy document for Shopify",
+        "Write technical document for Fluent Commerce"
+      ]
+    }
+  ]

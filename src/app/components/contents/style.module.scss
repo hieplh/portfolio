@@ -1,0 +1,56 @@
+.about {
+  p {
+    line-height: 2em;
+  }
+}
+
+.header-title {
+  color: lightseagreen;
+}
+
+@keyframes textGradient {
+  0% {
+    background-position: 0% 0%;
+  }
+
+  100% {
+    background-position: -400% 0%;
+  }
+}
+
+.gradient-text {
+  text-align : center;
+  font-size  : 2em;
+  font-weight: bold;
+  padding    : 5px 0;
+  background : linear-gradient(to right,
+      #e91e63 0%,
+      /* Color 1 */
+      #f46735 10%,
+      /* Color 2 (interval from 0% to 10%) */
+      #f7ca2a 20%,
+      /* Color 3 (interval from 10% to 20%) */
+      #58d6a7 30%,
+      /* Color 4 (interval from 20% to 30%) */
+      #2ecc71 40%,
+      /* Color 5 (interval from 30% to 40%) */
+      #1abc9c 50%,
+      /* Color 6 (interval from 40% to 50%) */
+      #3498db 60%,
+      /* Color 7 (interval from 50% to 60%) */
+      #9b59b6 70%,
+      /* Color 8 (interval from 60% to 70%) */
+      #8e44ad 80%,
+      /* Color 9 (interval from 70% to 80%) */
+      #f1c40f 90%,
+      /* Color 10 (interval from 80% to 90%) */
+      #e67e22 100%
+      /* Color 1 (back to the beginning) */
+    );
+  background-size        : 400%;
+  background-clip        : text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color                  : transparent;
+  animation              : textGradient 10s linear alternate infinite;
+}
